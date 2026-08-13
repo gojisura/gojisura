@@ -29,12 +29,12 @@
         <hr>
         <p align="left"> > Other codes than this one can be seen in my <a href="https://media.invisioncic.com/z328913/monthly_2025_06/Mothra.gif.4b796512fe7fd8b168d0db6b91099ca3.gif">repositories</a> tab.<br>
          Though I only have two for now, but there will be more to come.<br>
-        <p align="left"> > If you have any questions, requests or comments you can leave them<br>
-        in my <a href="https://gojisura.atabook.org/">atabook</a>.</p>
+        <p align="left"> > If you have any questions, requests or comments<br>
+       you can leave them in my <a href="https://gojisura.atabook.org/">atabook</a>.</p>
         <p align="left"> > If you wish to credit, credit this account or my main.</p>
 </th>
 </tr>
 </table>
 
-  <img src="https://file.garden/aiBEG24PQBWh7li2/Godzilla2019.gif.2d54c76a2a2a6844d951a8291f735a0d-ezgif.com-rotate.webp" align="right" width="300">
+  <img src="https://file.garden/aiBEG24PQBWh7li2/Godzilla2019.gif.2d54c76a2a2a6844d951a8291f735a0d-ezgif.com-rotate.webp" align="right" width="350">
 </div>
