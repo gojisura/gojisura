@@ -25,8 +25,7 @@
   <table border="0" align="left">
     <tr align="center"></tr>
       <th>
-<img src="https://views.igorkowalczyk.dev/api/badge/gojisura?style=flat" align="right"><br>
-        <img src="https://file.garden/aiBEG24PQBWh7li2/dfj771f-acff1abf-fac1-4457-b51c-e1877e093c06.gif" width="100"><br>
+        <img src="https://media.invisioncic.com/z328913/monthly_2025_06/Mothra.gif.4b796512fe7fd8b168d0db6b91099ca3.gif" width="100"><br>
         <i>this is specifically for PonyTown.</i>
         <hr>
         <p align="center"><h3>$\color{#38D3E8}\textsf{Hello and welcome!}$</h3></p>
