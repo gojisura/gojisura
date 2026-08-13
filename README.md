@@ -1,7 +1,7 @@
 >
 <div>
 
-  <img src="https://file.garden/aiBEG24PQBWh7li2/source.gif" align="left" width="470">
+  <img src="https://file.garden/aiBEG24PQBWh7li2/source.gif" align="left" width="450">
 
   <table border="0" align="right">
     <tr align="center"></tr>
