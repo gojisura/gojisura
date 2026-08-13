@@ -1,4 +1,4 @@
->
+<hr>
 <div>
 
   <img src="https://file.garden/aiBEG24PQBWh7li2/source.gif" align="left" width="430">
@@ -9,6 +9,7 @@
 <img src="https://views.igorkowalczyk.dev/api/badge/gojisura?style=flat" align="right"><br>
         <img src="https://file.garden/aiBEG24PQBWh7li2/dfj771f-acff1abf-fac1-4457-b51c-e1877e093c06.gif" width="100"><br>
         <i>this is specifically for PonyTown.</i>
+        <hr>
         <p align="center"><h3>$\color{#38D3E8}\textsf{Hello and welcome!}$</h3></p>
         <p align="left"> > I made this to share codes and resources for those <br>
           who are unfamiliar with coding and would like to<br>
