@@ -36,7 +36,11 @@ see https://readme-typing-svg.herokuapp.com/demo/ to make your own.--!>
 <table width="180">
 <tr>
 <td style="text-align: center">
-<img src="https://img.shields.io/badge/Alex_Keller's-number_1_fan-white?labelColor=%23000000">
+
+<!-- BADGE -->
+<img alt="Static Badge" src="https://img.shields.io/badge/your-text-blue?style=flat">
+
+<!-- BADGE -->
 <br>
  NAME . AGE . PRONOUNS<br>
   
