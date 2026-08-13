@@ -36,5 +36,5 @@
 </tr>
 </table>
 
-  <img src="https://file.garden/aiBEG24PQBWh7li2/Godzilla2019.gif.2d54c76a2a2a6844d951a8291f735a0d-ezgif.com-rotate.webp" align="right" width="350">
+  <img src="https://file.garden/aiBEG24PQBWh7li2/Godzilla2019.gif.2d54c76a2a2a6844d951a8291f735a0d-ezgif.com-rotate.webp" align="right" width="300">
 </div>
