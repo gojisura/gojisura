@@ -35,6 +35,6 @@
 </th>
 </tr>
 </table>
-
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=DotGothic16&size=17&pause=500&color=38D3E8&center=true&vCenter=true&multiline=true&width=435&lines=ALL+HAIL+THE+KING" alt="Typing SVG" /></a>
   <img src="https://file.garden/aiBEG24PQBWh7li2/Godzilla2019.gif.2d54c76a2a2a6844d951a8291f735a0d-ezgif.com-rotate.webp" align="right" width="350">
 </div>
