@@ -14,7 +14,7 @@
   <table border="0" align="left">
     <tr align="center"></tr>
       <th>
-<img src="https://placehold.co/300x300/png"><br>  
+<img src="https://placehold.co/320x300/png"><br>  
 Keep this short or add simply keep the image,<br>
 remember to resize it to your liking.
 </th>
