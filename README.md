@@ -26,11 +26,9 @@
     <tr align="center"></tr>
       <th>
         <img src="https://media.invisioncic.com/z328913/monthly_2025_06/Mothra.gif.4b796512fe7fd8b168d0db6b91099ca3.gif" width="100"><br>
-        <i>this is specifically for PonyTown.</i>
         <hr>
-        <p align="center"><h3>$\color{#38D3E8}\textsf{Hello and welcome!}$</h3></p>
-        <p align="left"> > I made this to share codes and resources for those <br>
-          who are unfamiliar with coding and would like to<br>
+        <p align="left"> > Other codes than this one can be seen in my <a href="https://media.invisioncic.com/z328913/monthly_2025_06/Mothra.gif.4b796512fe7fd8b168d0db6b91099ca3.gif">repositories</a> tab<br>
+         arrgh<br>
         make their github <i>$\color{#38D3E8}\textsf{pop}$</i>.</p>
         <p align="left"> >All of these codes are free to use and do not require credit.</p>
 </th>
