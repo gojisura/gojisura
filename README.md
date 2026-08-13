@@ -28,9 +28,10 @@ remember to resize it to your liking.
 
 
 <td width="250" align="center">
-
+<!-- TYPING SVG (YOU CAN REPLACE THIS WITH JUST TEXT.) 
+see https://readme-typing-svg.herokuapp.com/demo/ to make your own.--!>
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=DotGothic16&size=17&pause=500&color=F7F7F7&center=true&vCenter=true&multiline=true&width=435&lines=%22Even+in+dark+times%2C+we+cannot+relinquish;the+things+that+make+us+human.%22" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=TEXT+TEXT+TEXT+TEXT+TEXT+TEXT" alt="Typing SVG" /></a>
 </p>
 <table width="180">
 <tr>
