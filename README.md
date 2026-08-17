@@ -13,7 +13,7 @@
         <p align="center"><h3>$\color{#38D3E8}\textsf{Hello and welcome!}$</h3></p>
         <p align="left"> > I made this to share codes and resources for those <br>
           who are unfamiliar with coding and would like to<br>
-        make their github <i>$\color{#38D3E8}\textsf{pop}$</i>.</p>
+        make their github <i>$\color{#38D3E8}\textsf{stand out}$</i>.</p>
         <p align="left"> >All of these codes are free to use and do not require credit.</p>
 </th>
 </tr>
